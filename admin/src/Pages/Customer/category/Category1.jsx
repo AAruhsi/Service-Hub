@@ -51,7 +51,7 @@ const Category1 = () => {
       console.error("Problem haiii", error);
     }
   };
-  console.log("mini", mini);
+  // console.log("mini", mini);
   return (
     <>
       <div className="z-40 fixed">
